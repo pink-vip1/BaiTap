@@ -3,5 +3,6 @@
 * **Mã sinh viên:** 23810310336
 * **Lớp:** D18CNPM5
 
-![Ảnh kết quả chạy](./demo.png)
+![Ảnh kết quả chạy](./DEMO.png)
+
 
